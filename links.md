@@ -14,7 +14,7 @@ permalink: LINKS/
 
 # LINKS
 
-### Week 0
+## Week 0
 ---
 - [Operating System Playlist - Neso Academy](https://youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
@@ -23,7 +23,7 @@ permalink: LINKS/
 
      This site is pretty much a summary about introduction to OS. It covers the fundamental materials concisely and can be comfortably read in minutes. Great to read after watching above videos to remember the gist of it.
 
-### Week 1
+## Week 1
 ---
 - [Linux Cheat Sheet - guru99.com](https://www.guru99.com/linux-commands-cheat-sheet.html)
 
