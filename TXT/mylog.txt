@@ -1,3 +1,6 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
 ZCZC W00 30 L01 SCELE/Discord related
 ZCZC W00 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W00 20 L04 GitHub Pages related
@@ -13,3 +16,17 @@ ZCZC W00 120 L06 References/Books/Documents/Browsing/GSGS/ watching recordings
 ZCZC W00 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
 ZCZC W00 30 L32 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W00 20 L41 TXT/mylog.txt related.
+ZCZC W01 30 L01 SCELE/Discord related
+ZCZC W01 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W01 100 L02 ZOOM meetings on Tuesday
+ZCZC W01 60 L11 Assignment #01 
+ZCZC W01 100 L02 ZOOM meetings on Thursday
+ZCZC W01 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 30 L23 Bash, Regex, SED, AWK.
+ZCZC W01 45 L01 SCELE/Discord related, asis
+ZCZC W01 60 L05 Quiz related including studying
+ZCZC W01 60 L27 SSH, key-gen, tunneling, putty, winscp, resolving ssh connection problem 
+ZCZC W01 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
+ZCZC W01 100 L06 References/Books/Documents/Browsing/GSGS related/Reading Silberschatz
+ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 30 L41 TXT/mylog.txt related.
