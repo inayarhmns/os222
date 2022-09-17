@@ -29,4 +29,28 @@ ZCZC W01 60 L27 SSH, key-gen, tunneling, putty, winscp, resolving ssh connection
 ZCZC W01 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc
 ZCZC W01 100 L06 References/Books/Documents/Browsing/GSGS related/Reading Silberschatz
 ZCZC W01 30 L32 YouTube: watching OS related topics, etc.
-ZCZC W01 30 L41 TXT/mylog.txt related.
+ZCZC W01 30 L41 TXT/mylog.txt related. 
+ZCZC W02 30 L01 SCELE/Discord related
+ZCZC W02 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 100 L02 ZOOM meetings on Tuesday
+ZCZC W02 30 L32 Youtube: watching OS related topics.
+ZCZC W02 100 L02 ZOOM meeting on Thursday
+ZCZC W02 30 L09 Assignment in General
+ZCZC W02 90 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 60 L05 Quiz related including studying
+ZCZC W02 50 L06 References/Books/Documents/Browsing/GSGS related/reading slides
+ZCZC W02 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W02 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W02 30 L32 YouTube: watching OS related topics.
+ZCZC W02 30 L25 C-language including Make.
+ZCZC W02 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W02 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W02 20 L41 TXT/mylog.txt related.
+
+
+
+
+
+
+
+
