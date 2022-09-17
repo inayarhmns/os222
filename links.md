@@ -41,7 +41,7 @@ permalink: LINKS/
      Very substantial 7 minute video about Vi editor. It also gives out its website version in video description just in case 7 minutes is too long for us.
 - [How to paste to Vi editor from system' clipboard - stackoverflow](https://stackoverflow.com/a/49933556)  
 
-     This is a stackoverflow answer on how to copy and paste from clipboard to Vi editor. Very straight-forward answer using friendly and kind words unlike most stackoverflow answerers <3. 
+     This is a stackoverflow answer on how to copy and paste from clipboard to Vi editor. Very straight-forward answer using friendly and kind words unlike most stackoverflow answerers. 
      
 
 
