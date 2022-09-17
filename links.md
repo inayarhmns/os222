@@ -31,8 +31,22 @@ permalink: LINKS/
  
      This video explains Regex and demonstrates how to use them. It is a 5-minute video, so it may not cover every regex ever but by far for me is the most convenient source for just getting to know them! 
 
+## Week 2
+--- 
+- [Linux File permissions and Ownership Explained - Chris Titus Tech on YouTube](https://youtu.be/k1yzI7c6Fzk)
+
+     This video explains linux file permissions (rwx thingy). Not only is it compact, it provides linux handbook regarding the topic in the video description as well.
+- [Vi editor tutorial - guru99 on YouTube](https://youtu.be/pU2k776i2Zw)
+
+     Very substantial 7 minute video about Vi editor. It also gives out its website version in video description just in case 7 minutes is too long for us.
+- [How to paste to Vi editor from system' clipboard - stackoverflow](https://stackoverflow.com/a/49933556)  
+
+     This is a stackoverflow answer on how to copy and paste from clipboard to Vi editor. Very straight-forward answer using friendly and kind words unlike most stackoverflow answerers <3. 
+     
+
+
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }}.
 <hr>
 <br>
