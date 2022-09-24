@@ -43,8 +43,16 @@ permalink: LINKS/
 
      This is a stackoverflow answer on how to copy and paste from clipboard to Vi editor. Very straight-forward answer using friendly and kind words unlike most stackoverflow answerers <3. 
      
+## Week 3
+--- 
+- [File Systems as Fast As Possible - TechQuickie](https://youtu.be/BV0-EPUYuQc)
 
+     This video is a 6 minute easy-to-follow video about file systems. A great video to understand some basics before getting deep into the file systems presented in our textbook. 
 
+- [mounting and unmounting disks/partitions - BlueMonkey 4n6l](https://youtu.be/F-a_BBAGfkE)
+ 
+     This is a video on how mounting works and the kinds of mounting we can do. It is 18 minutes long but it has video sections so we can skip to whatever part we'd like to watch.
+     
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
