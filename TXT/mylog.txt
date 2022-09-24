@@ -46,11 +46,25 @@ ZCZC W02 30 L25 C-language including Make.
 ZCZC W02 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
 ZCZC W02 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W02 20 L41 TXT/mylog.txt related.
-
-
-
-
-
-
+ZCZC W03 30 L01 SCELE/Discord related
+ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 100 L02 ZOOM meetings on Tuesday
+ZCZC W03 30 L09 Assignment in General
+ZCZC W03 100 L02 ZOOM meetings on Thursday
+ZCZC W03 50 L06 References/Books/Documents/Browsing/GSGS related/reading slides
+ZCZC W03 30 L09 Assignment in General
+ZCZC W03 60 L13 Assignment #03
+ZCZC W03 30 L32 YouTube: watching OS related topics.
+ZCZC W03 60 L05 Quiz related including studying
+ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related/reading slides
+ZCZC W03 20 L24 Scripting in general. 
+ZCZC W03 60 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01. 
+ZCZC W03 60 L32 YouTube: watching OS related topics.
+ZCZC W03 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W03 20 L41 TXT/mylog.txt related.
+ZCZC W03 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 5  L03 GitHub and git related, including commit, push, pull
 
 
