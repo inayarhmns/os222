@@ -83,4 +83,3 @@ ZCZC W04 60 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 20 L41 TXT/mylog.txt related.
 ZCZC W04 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W04 5  L03 GitHub and git related, including commit, push, pull
-
