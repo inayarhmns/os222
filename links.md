@@ -52,6 +52,21 @@ permalink: LINKS/
 - [mounting and unmounting disks/partitions - BlueMonkey 4n6l](https://youtu.be/F-a_BBAGfkE)
  
      This is a video on how mounting works and the kinds of mounting we can do. It is 18 minutes long but it has video sections so we can skip to whatever part we'd like to watch.
+
+## Week 4
+--- 
+- [C Pointers- Programiz](https://www.programiz.com/c-programming/c-pointers)
+
+     This website linked above explains about C pointer. The same website also provides an online C compiler so we can do demo instantly.
+
+- [you will never ask about pointers again after watching this video - Low Level Learning on Youtube](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+ 
+     This video's content is similar to the previous link but rather explains as it flow instead of showing us a block of code. It shortly explains dynamic and static allocations too.
+
+- [Makefile tutorial - cs.clemson.edu](https://people.cs.clemson.edu/~dhouse/courses/1070/labs/9-9/makefile-tutorial.html)
+
+     This link explains how to make a simple Makefile. Do not forget to keep indentation in mind when making one! 
+
      
 <br>
 <hr>
