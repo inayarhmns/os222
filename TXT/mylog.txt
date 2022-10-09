@@ -83,3 +83,21 @@ ZCZC W04 60 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 20 L41 TXT/mylog.txt related.
 ZCZC W04 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W04 5  L03 GitHub and git related, including commit, push, pull
+ZCZC W05 30 L01 SCELE/Discord related
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 100 L02 ZOOM meetings on Tuesday
+ZCZC W05 100 L02 ZOOM meetings on Thursday
+ZCZC W05 40 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W05 30 L32 YouTube: watching OS related topics.
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 30 L06 References/Books/Documents/Browsing/GSGS related/watching recordings
+ZCZC W05 60 L05 Quiz related including studying
+ZCZC W05 90 L60 Install/Reinstall/Restore/Backup Desktop or Laptop since my laptop caught a virus
+ZCZC W05 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 60 L15 Assignment #05
+ZCZC W05 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W05 120 L25 C-language including Make. Trying to sort an array of pointers in C.
+ZCZC W05 60 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 30 L41 TXT/mylog.txt related.
+ZCZC W05 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W05 5  L03 GitHub and git related, including commit, push, pull

@@ -67,6 +67,21 @@ permalink: LINKS/
 
      This link explains how to make a simple Makefile. Do not forget to keep indentation in mind when making one! 
 
+## WEEK05
+--- 
+- [Segmented, Paged and Virtual Memory - Computer Science](https://youtu.be/p9yZNLeOj4s)
+
+	This video presents a very general explanation about segmented and paged virtual memory. It's only 8 minutes but fair to watch it on 2x if you have a negative attention span like myself.
+
+- [C - Array of pointers - tutorialspoint](https://www.tutorialspoint.com/cprogramming/c_array_of_pointers.htm)
+
+	This site explains how to make array of pointers in C. It should be useful for this weeks' popuiz.
+ 
+
+- [Segmentation fault in C - GeeksForGeeks](https://www.geeksforgeeks.org/core-dump-segmentation-fault-c-cpp/#:~:text=Core%20Dump%2FSegmentation%20fault%20is,is%20known%20as%20core%20dump.) 
+
+	This site explains about segmentation fault in C. It may be useful to read when you found errors in your C code.
+
      
 <br>
 <hr>
