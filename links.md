@@ -67,7 +67,7 @@ permalink: LINKS/
 
      This link explains how to make a simple Makefile. Do not forget to keep indentation in mind when making one! 
 
-## WEEK05
+## Week 05
 --- 
 - [Segmented, Paged and Virtual Memory - Computer Science](https://youtu.be/p9yZNLeOj4s)
 
@@ -82,7 +82,22 @@ permalink: LINKS/
 
 	This site explains about segmentation fault in C. It may be useful to read when you found errors in your C code.
 
-     
+
+## Week 06
+
+- [Process fork example - Oparating System - Blake B on YouTube](https://youtu.be/WcsZvdlLkPw)
+
+	This video is how I understand what fork() function does. Best part about it is that it's only 6 minutes long.
+
+- [How to create and join threads in C (pthreads).- Jacob Sorber on YouTube](https://youtu.be/uA8X5zNOGw8)
+
+	This 6 min video explains about pthreads in C. It explains in the most general way possible so we have idea what is going on. 
+
+- [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)
+
+	This site explains how to copy from remote to local system and vice versa. This should be useful for doing file transfers for this and next weeks popquiz assignments.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }}.
