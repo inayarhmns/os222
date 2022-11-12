@@ -97,6 +97,22 @@ permalink: LINKS/
 
 	This site explains how to copy from remote to local system and vice versa. This should be useful for doing file transfers for this and next weeks popquiz assignments.
 
+## Week 07
+
+- [Introduction of Process Synchronization - GFG](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+	This site is an intro to Chapter 6 in Silberschatz. It provides general explanation which prepares you for more in depth Chapter 6 materials.
+	
+
+- [What is Semaphore? Counting, Binary Types with Example - Guru99.com](https://www.guru99.com/semaphore-in-operating-system.html)
+
+	This website explains Semaphore and its odds and ends like how wait and signal operation works as well as the difference between Semaphore and Mutex. It's wrapped in a compact and readable essay. 
+
+- [Deadlocks - GFG](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+
+	As short and concise as this site is, it presents what you need to care about Deadlocks at the very least. Other than that, this site provides us with an exercise question and a video if you're more into that.
+
+
+  
 
 <br>
 <hr>
