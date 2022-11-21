@@ -111,8 +111,19 @@ permalink: LINKS/
 
 	As short and concise as this site is, it presents what you need to care about Deadlocks at the very least. Other than that, this site provides us with an exercise question and a video if you're more into that.
 
+## Week 08 
 
+- [Kernotex Youtube LFS 11.2 Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)
+
+	This is the source you need to refer to when doing w8 assignment. Very clearly explained and shown, just make sure you follow through all the instructions in the videos.
+
+- [Shortest Job First (SJF): Preemptive, Non-Preemptive Example](https://www.guru99.com/shortest-job-first-sjf-scheduling.html)
   
+	An explanation about shortest job first scheduling. It explains with some picture to help us understand.
+
+- [Round Robin Algorithm](https://www.guru99.com/round-robin-scheduling-example.html)
+	This site explains RR scheduling. Explains in the same style with the one above. Quite simple to understand.
+
 
 <br>
 <hr>
