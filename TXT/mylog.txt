@@ -150,3 +150,20 @@ ZCZC W08 30 L41 TXT/mylog.txt related.
 ZCZC W08 60 L43 TXT/myrank.tex related, including peer review.
 ZCZC W08 10 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W08 5  L03 GitHub and git related, including commit, push, pull
+ZCZC W09 30 L01 SCELE/Discord related
+ZCZC W09 100 L02 ZOOM meetings on Tuesday
+ZCZC W09 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
+ZCZC W09 100 L02 ZOOM meetings on Thursday
+ZCZC W09 90 L05 Quiz related including studying
+ZCZC W09 5 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest/Cloning
+ZCZC W09 20 L07 Demo related
+ZCZC W09 180 L19 Assignment #09 redo w08
+ZCZC W09 120 L32 YouTube: watching OS related topics, etc.
+ZCZC W09 90 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W09 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 60 L25 C-language including Make.
+ZCZC W09 30 L41 TXT/mylog.txt related.
+ZCZC W09 60 L43 TXT/myrank.tex related, including peer review.
+ZCZC W09 10 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W09 5  L03 GitHub and git related, including commit, push, pull
