@@ -126,17 +126,17 @@ permalink: LINKS/
 
 ## Week 09
 
-- [RAID - GeeksForGeeks] (https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)
+- [RAID - GeeksForGeeks](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)
 
-        This site explains what RAID is and each of its levels. It is quite convenient to learn an interesting topic from.
+	This site explains what RAID is and each of its levels. It is quite convenient to learn an interesting topic from.
 
-- [Swap Space Management in OS - GeeksForGeeks] (https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)
+- [Swap Space Management in OS - GeeksForGeeks](https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)
 
-        This site explains swap space management just like in the book but with some examples. Quite straightforward and compact.
+	This site explains swap space management just like in the book but with some examples. Quite straightforward and compact.
 
 ## Week 10
 
-- [Operating System: I/O Systems] (https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
+- [Operating System: I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
 	
 	This is a course note on I/O systems. Very full of information, loaded with pictures, the only minus point is that its background is yellow.
 
