@@ -124,6 +124,25 @@ permalink: LINKS/
 - [Round Robin Algorithm](https://www.guru99.com/round-robin-scheduling-example.html)
 	This site explains RR scheduling. Explains in the same style with the one above. Quite simple to understand.
 
+## Week 09
+
+- [RAID - GeeksForGeeks] (https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)
+
+        This site explains what RAID is and each of its levels. It is quite convenient to learn an interesting topic from.
+
+- [Swap Space Management in OS - GeeksForGeeks] (https://www.geeksforgeeks.org/swap-space-management-in-operating-system/)
+
+        This site explains swap space management just like in the book but with some examples. Quite straightforward and compact.
+
+## Week 10
+
+- [Operating System: I/O Systems] (https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
+	
+	This is a course note on I/O systems. Very full of information, loaded with pictures, the only minus point is that its background is yellow.
+
+- [Lecture notes on System Calls](http://web.eecs.utk.edu/~jplank/plank/classes/cs360/360/notes/Syscall-Intro/lecture.html)
+
+	This is a lecture note about system calls for i/o in linux. This includes the stdin, stdout, open(), close(), read(), and write() and its flags like O_CREAT and everything else just like we learned in class. Very informative and compact.
 
 <br>
 <hr>
